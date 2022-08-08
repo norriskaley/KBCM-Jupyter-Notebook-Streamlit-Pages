@@ -8,7 +8,7 @@ Files for this project:
 3) PROJECT1-ORGANIZED.ipynb (final product that was presented--Signal 3 was found to be best signal)
 
 Project 2 = Create a Streamlit Page to display results found in first project in a user-friendly app like program
-I had two runs for this. The first being specific to my Excel file but then I redid it to be able to input your own file and still have data anlysis tailored to your data 
+I had two runs for this. The first being specific to my Excel file but then I redid it to be able to input your own file and still have data anlysis tailored to your data.
 Files for first run:
 1) dashboard.py
 2) home.py
