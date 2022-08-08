@@ -23,7 +23,7 @@ Files for second run/final project:
 4) signals_with_indicators_universal.py
 5) properties_universal.py
 
-Project 3 = Create Streamlit Page to help teammate
+Project 3 = Create a Streamlit Page to help teammate
 Looking at weighted_return by industry sector over time. 
 Files for this project:
 1) dashboard_sector_analysis.py 
